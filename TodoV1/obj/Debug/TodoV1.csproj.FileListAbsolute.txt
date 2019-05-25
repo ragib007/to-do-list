@@ -1,0 +1,7 @@
+D:\C#\ToDoList\prac\TodoV1\TodoV1\bin\Debug\TodoV1.exe.config
+D:\C#\ToDoList\prac\TodoV1\TodoV1\bin\Debug\TodoV1.exe
+D:\C#\ToDoList\prac\TodoV1\TodoV1\bin\Debug\TodoV1.pdb
+D:\C#\ToDoList\prac\TodoV1\TodoV1\obj\Debug\TodoV1.csprojAssemblyReference.cache
+D:\C#\ToDoList\prac\TodoV1\TodoV1\obj\Debug\TodoV1.csproj.CoreCompileInputs.cache
+D:\C#\ToDoList\prac\TodoV1\TodoV1\obj\Debug\TodoV1.exe
+D:\C#\ToDoList\prac\TodoV1\TodoV1\obj\Debug\TodoV1.pdb
